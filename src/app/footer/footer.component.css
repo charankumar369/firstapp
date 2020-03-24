@@ -1,0 +1,21 @@
+.footer
+{
+    background-color: rgba(0, 0,0, 0.6);
+    color: rgba(253, 253, 253, 1);
+    display :space-around;
+}
+.btn
+{
+    color: rgba(253, 253, 253, 1);
+}
+.address{
+    line-height: 1.6;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.btn-facebook {color:#fff!important; background-color:#3b5998!important;}
+.btn-google-plus{color:#fff!important;background-color:#dd4b39!important;}
+.btn-youtube{color:#fff!important;background-color:#ff4b39!important;}
+.btn-linkedin{color:#fff!important;background-color:#007bb6!important;}
+.btn-twitter{color:#fff!important;background-color:#55acee!important;}
+.btn-mail{color:#fff!important;background-color:#512DA8!important;}
